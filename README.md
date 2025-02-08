@@ -1,4 +1,4 @@
-#### Minesweeper Game - Python Implementation
+# Minesweeper Game
 
 ## Overview
 
